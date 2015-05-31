@@ -44,6 +44,9 @@ public class Quotebook extends Activity {
         Quote quote6 = new Quote("New Quote", "Author Name");
         quoteList.add(quote6);
 
+        Quote quote7 = new Quote("Newer Quote", "Author Name");
+        quoteList.add(quote7);
+
         touch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
