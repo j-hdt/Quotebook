@@ -1,8 +1,6 @@
 package com.example.hildebrandt.thequotebook;
 
-/**
- * Created by hildebrandt on 31.05.15.
- */
+
 public class Quote {
 
     public String quote;
